@@ -8,6 +8,6 @@ import './index.css';
 // import App from './steps/3/Count'// redux管理数据
 import App from './steps/4/Parent'; // redux跨组件管理数据
 ReactDOM.render(
-  <App />,
-  document.getElementById('root')
+    <App/>,
+    document.getElementById('root')
 );
